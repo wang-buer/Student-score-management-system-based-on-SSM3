@@ -1,42 +1,70 @@
-# 基于SSM的学生成绩管理系统3
+# 基于SSM的学生(成绩)管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**成绩3** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于SSM的学生(成绩)管理系统3拥有三个用户：管理员、教师、用户
 
 - 学生成绩管理系统中，系统的用户是学校的学生、教师和管理员。各类用户经登录认证后方可使用系统。
 - 学生使用本系统可以查询自己的信息和成绩。
 - 教师使用本系统查询个人信息、查询自己所授课程信息和自己所授课程考试成绩。
+- 管理员可以添加班级，学生的增删改查，教师的增删改查，课程的增删改查，授课的增删改查和查询教师已经批改成绩的成绩信息。(所有查询均支持多条件查询,支持导入学生教师信息/导出成绩信息)   
 
 
-#### 软件架构
-软件架构说明
+## 2、项目技术
+
+后端框架：Spring、Struts2、Mybatis
+
+前端技术：easyui、jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8
+- IDE类型：IDEA、Eclipse都可运行
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- maven项目：否
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335330.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.2 学生模块
 
-#### 参与贡献
+![学生-查询成绩](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335608.jpg)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+### 4.3 教师模块
+
+![教师-成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335826.jpg)
+
+![教师-查询自己授课信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335670.jpg)
+
+### 4.4 管理员模块
+
+![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335120.jpg)
+
+![管理员-教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335860.jpg)
+
+![管理员-课程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335100.jpg)
+
+![管理员-授课管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335178.jpg)
+
+![管理员-成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335756.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**成绩3** ，获取完整版源码
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
