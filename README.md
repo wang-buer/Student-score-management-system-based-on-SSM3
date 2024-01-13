@@ -1,10 +1,10 @@
-# 基于SSM的学生(成绩)管理系统
+# 基于SSM的学生(成绩)管理系统3
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**成绩3** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**成绩**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -36,35 +36,27 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335330.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208121335330.jpg)
 
 ### 4.2 学生模块
 
-![学生-查询成绩](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335608.jpg)
+![学生-查询成绩](https://www.codeshop.fun/Typora-Images/202208121335608.jpg)
 
 ### 4.3 教师模块
 
-![教师-成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335826.jpg)
+![教师-成绩管理](https://www.codeshop.fun/Typora-Images/202208121335826.jpg)
 
-![教师-查询自己授课信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335670.jpg)
+![教师-查询自己授课信息](https://www.codeshop.fun/Typora-Images/202208121335670.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335120.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202208121335120.jpg)
 
-![管理员-教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335860.jpg)
+![管理员-教师管理](https://www.codeshop.fun/Typora-Images/202208121335860.jpg)
 
-![管理员-课程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335100.jpg)
+![管理员-课程管理](https://www.codeshop.fun/Typora-Images/202208121335100.jpg)
 
-![管理员-授课管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335178.jpg)
+![管理员-授课管理](https://www.codeshop.fun/Typora-Images/202208121335178.jpg)
 
-![管理员-成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121335756.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**成绩3** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-成绩管理](https://www.codeshop.fun/Typora-Images/202208121335756.jpg)
 
